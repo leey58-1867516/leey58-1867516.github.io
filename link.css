@@ -1,0 +1,28 @@
+body{
+    background-image: url('spot_lights.png'); 
+}
+
+hl{
+    color: #FFBC00;
+    text-align:center; 
+
+}
+
+
+
+h1{
+        border: solid 8px rgb(6, 49, 83); 
+        color: #FFBC00;
+        font-size: 40px;
+        font-family: "Passion One"; 
+        margin-bottom: 0px;
+        text-align:left;  
+
+}
+
+legend{ 
+    border: solid 8px rgb(6, 121, 209); 
+    text-align:left; 
+    color: #FFBC00;
+    background-color: #8E41D5;
+}
