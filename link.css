@@ -1,28 +1,26 @@
-body{
-    background-image: url('spot_lights.png'); 
-}
+<head> 
+		<title> Mother's Day</title>
+		<link rel="stylesheet" type="text/css" href="link.css" />
+		<link href='http://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+	</head>
 
-hl{
-    color: #FFBC00;
-    text-align:center; 
-
-}
-
-
+    hl{
+        color: #FFBC00;
+        text-align:center; 
+    }
 
 h1{
-        border: solid 8px rgb(6, 49, 83); 
+        border: solid 8px rgb(6, 121, 209); 
         color: #FFBC00;
         font-size: 40px;
         font-family: "Passion One"; 
         margin-bottom: 0px;
-        text-align:left;  
+        text-align:center;  
 
 }
 
-legend{ 
-    border: solid 8px rgb(6, 121, 209); 
-    text-align:left; 
-    color: #FFBC00;
-    background-color: #8E41D5;
+body{ 
+    text-align:center; 
+    color: brown;
+    background-color: rgb(102, 72, 131);
 }
